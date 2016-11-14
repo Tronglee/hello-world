@@ -1,2 +1,3 @@
 # hello-world
 Just another repository
+ Trong here, I like going shop, cat, dog,....
